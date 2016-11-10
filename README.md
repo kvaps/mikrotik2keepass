@@ -1,7 +1,11 @@
 mikrotik2keepass
 ================
 
-Script for exporting DHCP Leases from Mikrotik into Generic CSV format fit for importing to Keepass2
+Script for exporting DHCP Leases from Mikrotik into Generic CSV format fit for importing to Keepass2.
+
+Dependencies
+------------
+You need to install `zenity` package.
 
 Usage
 -----
